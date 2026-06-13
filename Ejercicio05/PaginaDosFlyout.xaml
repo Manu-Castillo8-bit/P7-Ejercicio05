@@ -3,12 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ejercicio05.PaginaDosFlyout"
              Title="PaginaDosFlyout" 
-FlyoutLayoutBehavior="SplitOnLandscape" 
+FlyoutLayoutBehavior="SplitOnPortrait" 
 
 >
 
 <!--    FlyoutLayoutBehavior="Popover" 
         FlyoutLayoutBehavior="Split" 
+       FlyoutLayoutBehavior="SplitOnLandscape"
+       FlyoutLayoutBehavior="SplitOnPortrait" 
 -->
 
 
