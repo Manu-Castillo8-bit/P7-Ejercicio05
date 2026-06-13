@@ -7,11 +7,9 @@ namespace Ejercicio05
         public App()
         {
             InitializeComponent();
+            MainPage = new PaginaDosFlyout();
         }
 
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new AppShell());
-        }
+    
     }
 }
