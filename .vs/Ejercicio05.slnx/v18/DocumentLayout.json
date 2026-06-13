@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio05\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E595A8E3-6C3A-3878-0DCC-80684B5B268C}|Ejercicio05\\Ejercicio05.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio05\\ejercicio05\\paginadosflyout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E595A8E3-6C3A-3878-0DCC-80684B5B268C}|Ejercicio05\\Ejercicio05.csproj|solutionrelative:ejercicio05\\paginadosflyout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaDosFlyout.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio05\\Ejercicio05\\PaginaDosFlyout.xaml",
+              "RelativeDocumentMoniker": "Ejercicio05\\PaginaDosFlyout.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio05\\Ejercicio05\\PaginaDosFlyout.xaml",
+              "RelativeToolTip": "Ejercicio05\\PaginaDosFlyout.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T04:56:51.456Z",
+              "EditorCaption": ""
             }
           ]
         }

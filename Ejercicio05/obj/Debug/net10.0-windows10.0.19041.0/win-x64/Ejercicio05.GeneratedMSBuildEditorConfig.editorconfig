@@ -58,6 +58,16 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/User/Desktop/Práctica 7/Ejercicio05/Ejercicio05/PaginaDosFlyout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio05.PaginaDosFlyout.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginaDosFlyout.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginaDosFlyout.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/User/Desktop/Práctica 7/Ejercicio05/Ejercicio05/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio05.Resources.Styles.Colors.xaml
